@@ -1,0 +1,6 @@
+D:\VisualStudio\Apellido.Nombre\Entidades.Estacionamiento.starter\bin\Debug\Entidades.Estacionamiento.starter.dll
+D:\VisualStudio\Apellido.Nombre\Entidades.Estacionamiento.starter\bin\Debug\Entidades.Estacionamiento.starter.pdb
+D:\VisualStudio\Apellido.Nombre\Entidades.Estacionamiento.starter\obj\Debug\Entidades.Estacionamiento.starter.csprojAssemblyReference.cache
+D:\VisualStudio\Apellido.Nombre\Entidades.Estacionamiento.starter\obj\Debug\Entidades.Estacionamiento.starter.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Apellido.Nombre\Entidades.Estacionamiento.starter\obj\Debug\Entidades.Estacionamiento.starter.dll
+D:\VisualStudio\Apellido.Nombre\Entidades.Estacionamiento.starter\obj\Debug\Entidades.Estacionamiento.starter.pdb

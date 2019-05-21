@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\Medeiros.Lautaro\Libreria\bin\Debug\Libreria.dll
+C:\Users\alumno\Desktop\Medeiros.Lautaro\Libreria\bin\Debug\Libreria.pdb
+C:\Users\alumno\Desktop\Medeiros.Lautaro\Libreria\obj\Debug\Libreria.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Medeiros.Lautaro\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Medeiros.Lautaro\Libreria\obj\Debug\Libreria.dll
+C:\Users\alumno\Desktop\Medeiros.Lautaro\Libreria\obj\Debug\Libreria.pdb

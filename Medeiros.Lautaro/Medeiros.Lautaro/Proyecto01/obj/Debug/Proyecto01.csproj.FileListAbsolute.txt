@@ -1,0 +1,7 @@
+D:\VisualStudio\Medeiros.Lautaro\Proyecto01\bin\Debug\Proyecto01.exe.config
+D:\VisualStudio\Medeiros.Lautaro\Proyecto01\bin\Debug\Proyecto01.exe
+D:\VisualStudio\Medeiros.Lautaro\Proyecto01\bin\Debug\Proyecto01.pdb
+D:\VisualStudio\Medeiros.Lautaro\Proyecto01\obj\Debug\Proyecto01.csprojAssemblyReference.cache
+D:\VisualStudio\Medeiros.Lautaro\Proyecto01\obj\Debug\Proyecto01.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Medeiros.Lautaro\Proyecto01\obj\Debug\Proyecto01.exe
+D:\VisualStudio\Medeiros.Lautaro\Proyecto01\obj\Debug\Proyecto01.pdb
