@@ -1,0 +1,13 @@
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase15-05-2019frm\bin\Debug\Clase15-05-2019frm.exe.config
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase15-05-2019frm\bin\Debug\Clase15-05-2019frm.exe
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase15-05-2019frm\bin\Debug\Clase15-05-2019frm.pdb
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase15-05-2019frm\bin\Debug\Libreria.dll
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase15-05-2019frm\bin\Debug\Libreria.pdb
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase15-05-2019frm\obj\Debug\Clase15-05-2019frm.csprojAssemblyReference.cache
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase15-05-2019frm\obj\Debug\Clase15_05_2019frm.frmPrincipal.resources
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase15-05-2019frm\obj\Debug\Clase15_05_2019frm.Properties.Resources.resources
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase15-05-2019frm\obj\Debug\Clase15-05-2019frm.csproj.GenerateResource.cache
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase15-05-2019frm\obj\Debug\Clase15-05-2019frm.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase15-05-2019frm\obj\Debug\Clase15-05-2019frm.csproj.CopyComplete
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase15-05-2019frm\obj\Debug\Clase15-05-2019frm.exe
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase15-05-2019frm\obj\Debug\Clase15-05-2019frm.pdb

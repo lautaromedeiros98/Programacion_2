@@ -1,0 +1,10 @@
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase5.Test\bin\Debug\Clase5.Test.exe.config
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase5.Test\bin\Debug\Clase5.Test.exe
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase5.Test\bin\Debug\Clase5.Test.pdb
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase5.Test\bin\Debug\Clase5.Entidades.dll
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase5.Test\bin\Debug\Clase5.Entidades.pdb
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase5.Test\obj\Debug\Clase5.Test.csprojAssemblyReference.cache
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase5.Test\obj\Debug\Clase5.Test.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase5.Test\obj\Debug\Clase5.Test.csproj.CopyComplete
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase5.Test\obj\Debug\Clase5.Test.exe
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase5.Test\obj\Debug\Clase5.Test.pdb

@@ -1,7 +1,0 @@
-C:\Users\alumno\Desktop\Medeiros.Lautaro\Ejercicio04\bin\Debug\Ejercicio04.exe.config
-C:\Users\alumno\Desktop\Medeiros.Lautaro\Ejercicio04\bin\Debug\Ejercicio04.exe
-C:\Users\alumno\Desktop\Medeiros.Lautaro\Ejercicio04\bin\Debug\Ejercicio04.pdb
-C:\Users\alumno\Desktop\Medeiros.Lautaro\Ejercicio04\obj\Debug\Ejercicio04.csprojAssemblyReference.cache
-C:\Users\alumno\Desktop\Medeiros.Lautaro\Ejercicio04\obj\Debug\Ejercicio04.csproj.CoreCompileInputs.cache
-C:\Users\alumno\Desktop\Medeiros.Lautaro\Ejercicio04\obj\Debug\Ejercicio04.exe
-C:\Users\alumno\Desktop\Medeiros.Lautaro\Ejercicio04\obj\Debug\Ejercicio04.pdb

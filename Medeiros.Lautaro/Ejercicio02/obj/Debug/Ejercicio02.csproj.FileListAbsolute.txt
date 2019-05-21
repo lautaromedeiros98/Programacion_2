@@ -1,0 +1,13 @@
+D:\VisualStudio\Medeiros.Lautaro\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+D:\VisualStudio\Medeiros.Lautaro\Ejercicio02\bin\Debug\Ejercicio02.exe
+D:\VisualStudio\Medeiros.Lautaro\Ejercicio02\bin\Debug\Ejercicio02.pdb
+D:\VisualStudio\Medeiros.Lautaro\Ejercicio02\obj\Debug\Ejercicio02.csprojAssemblyReference.cache
+D:\VisualStudio\Medeiros.Lautaro\Ejercicio02\obj\Debug\Ejercicio02.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Medeiros.Lautaro\Ejercicio02\obj\Debug\Ejercicio02.exe
+D:\VisualStudio\Medeiros.Lautaro\Ejercicio02\obj\Debug\Ejercicio02.pdb
+C:\Users\alumno\Desktop\Medeiros.Lautaro\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+C:\Users\alumno\Desktop\Medeiros.Lautaro\Ejercicio02\bin\Debug\Ejercicio02.exe
+C:\Users\alumno\Desktop\Medeiros.Lautaro\Ejercicio02\bin\Debug\Ejercicio02.pdb
+C:\Users\alumno\Desktop\Medeiros.Lautaro\Ejercicio02\obj\Debug\Ejercicio02.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Medeiros.Lautaro\Ejercicio02\obj\Debug\Ejercicio02.exe
+C:\Users\alumno\Desktop\Medeiros.Lautaro\Ejercicio02\obj\Debug\Ejercicio02.pdb

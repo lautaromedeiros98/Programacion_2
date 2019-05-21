@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\Medeiros.Lautaro\Clase04\bin\Debug\Clase04.dll
+C:\Users\alumno\Desktop\Medeiros.Lautaro\Clase04\bin\Debug\Clase04.pdb
+C:\Users\alumno\Desktop\Medeiros.Lautaro\Clase04\obj\Debug\Clase04.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Medeiros.Lautaro\Clase04\obj\Debug\Clase04.dll
+C:\Users\alumno\Desktop\Medeiros.Lautaro\Clase04\obj\Debug\Clase04.pdb

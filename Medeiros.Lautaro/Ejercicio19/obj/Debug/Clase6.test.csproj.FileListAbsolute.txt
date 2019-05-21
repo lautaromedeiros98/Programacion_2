@@ -1,0 +1,10 @@
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Ejercicio19\bin\Debug\Ejercicio19.exe.config
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Ejercicio19\bin\Debug\Ejercicio19.exe
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Ejercicio19\bin\Debug\Ejercicio19.pdb
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Ejercicio19\bin\Debug\Clase6.Entidades.dll
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Ejercicio19\bin\Debug\Clase6.Entidades.pdb
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Ejercicio19\obj\Debug\Clase6.test.csprojAssemblyReference.cache
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Ejercicio19\obj\Debug\Clase6.test.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Ejercicio19\obj\Debug\Clase6.test.csproj.CopyComplete
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Ejercicio19\obj\Debug\Ejercicio19.exe
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Ejercicio19\obj\Debug\Ejercicio19.pdb

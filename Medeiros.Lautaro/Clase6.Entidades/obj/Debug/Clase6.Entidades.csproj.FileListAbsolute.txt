@@ -1,0 +1,18 @@
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase6.Entidades\bin\Debug\Clase6.Entidades.dll
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase6.Entidades\bin\Debug\Clase6.Entidades.pdb
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase6.Entidades\obj\Debug\Clase6.Entidades.csprojAssemblyReference.cache
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase6.Entidades\obj\Debug\Clase6.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase6.Entidades\obj\Debug\Clase6.Entidades.dll
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Clase6.Entidades\obj\Debug\Clase6.Entidades.pdb
+C:\Users\Lalo\Downloads\Medeiros.Lautaro (1)\Medeiros.Lautaro\Clase6.Entidades\bin\Debug\Clase6.Entidades.dll
+C:\Users\Lalo\Downloads\Medeiros.Lautaro (1)\Medeiros.Lautaro\Clase6.Entidades\bin\Debug\Clase6.Entidades.pdb
+C:\Users\Lalo\Downloads\Medeiros.Lautaro (1)\Medeiros.Lautaro\Clase6.Entidades\obj\Debug\Clase6.Entidades.csprojAssemblyReference.cache
+C:\Users\Lalo\Downloads\Medeiros.Lautaro (1)\Medeiros.Lautaro\Clase6.Entidades\obj\Debug\Clase6.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lalo\Downloads\Medeiros.Lautaro (1)\Medeiros.Lautaro\Clase6.Entidades\obj\Debug\Clase6.Entidades.dll
+C:\Users\Lalo\Downloads\Medeiros.Lautaro (1)\Medeiros.Lautaro\Clase6.Entidades\obj\Debug\Clase6.Entidades.pdb
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Medeiros.Lautaro\Clase6.Entidades\bin\Debug\Clase6.Entidades.dll
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Medeiros.Lautaro\Clase6.Entidades\bin\Debug\Clase6.Entidades.pdb
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Medeiros.Lautaro\Clase6.Entidades\obj\Debug\Clase6.Entidades.csprojAssemblyReference.cache
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Medeiros.Lautaro\Clase6.Entidades\obj\Debug\Clase6.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Medeiros.Lautaro\Clase6.Entidades\obj\Debug\Clase6.Entidades.dll
+C:\Users\alumno\Downloads\Medeiros.Lautaro\Medeiros.Lautaro\Clase6.Entidades\obj\Debug\Clase6.Entidades.pdb
