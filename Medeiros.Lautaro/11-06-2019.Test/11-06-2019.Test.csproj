@@ -7,7 +7,7 @@
     <ProjectGuid>{8A5A1EB8-6659-406B-BFFF-C10EC56EC44C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_11_06_2019.Test</RootNamespace>
-    <AssemblyName>_11_06_2019.Test</AssemblyName>
+    <AssemblyName>11-06-2019.Test</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -47,6 +47,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\11-06-2019\11-06-2019.csproj">
+      <Project>{f4c0ad08-e50f-4b6d-9110-e118c03ea35c}</Project>
+      <Name>11-06-2019</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
