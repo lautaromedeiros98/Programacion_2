@@ -1,0 +1,10 @@
+D:\VisualStudio\28-05-2019\Test\bin\Debug\Test.exe.config
+D:\VisualStudio\28-05-2019\Test\bin\Debug\Test.exe
+D:\VisualStudio\28-05-2019\Test\bin\Debug\Test.pdb
+D:\VisualStudio\28-05-2019\Test\bin\Debug\Entidades.dll
+D:\VisualStudio\28-05-2019\Test\bin\Debug\Entidades.pdb
+D:\VisualStudio\28-05-2019\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\VisualStudio\28-05-2019\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\VisualStudio\28-05-2019\Test\obj\Debug\Test.csproj.CopyComplete
+D:\VisualStudio\28-05-2019\Test\obj\Debug\Test.exe
+D:\VisualStudio\28-05-2019\Test\obj\Debug\Test.pdb

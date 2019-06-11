@@ -1,0 +1,6 @@
+D:\VisualStudio\04-06-2019\ASD\bin\Debug\ASD.dll
+D:\VisualStudio\04-06-2019\ASD\bin\Debug\ASD.pdb
+D:\VisualStudio\04-06-2019\ASD\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\VisualStudio\04-06-2019\ASD\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\04-06-2019\ASD\obj\Debug\ASD.dll
+D:\VisualStudio\04-06-2019\ASD\obj\Debug\ASD.pdb
