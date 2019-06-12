@@ -1,0 +1,14 @@
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\11-06-2019.FRM\bin\Debug\11-06-2019.FRM.exe.config
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\11-06-2019.FRM\bin\Debug\11-06-2019.FRM.exe
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\11-06-2019.FRM\bin\Debug\11-06-2019.FRM.pdb
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\11-06-2019.FRM\bin\Debug\11-06-2019.dll
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\11-06-2019.FRM\bin\Debug\11-06-2019.pdb
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\11-06-2019.FRM\bin\Debug\11-06-2019.dll.config
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\11-06-2019.FRM\obj\Debug\11-06-2019.FRM.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\11-06-2019.FRM\obj\Debug\_11_06_2019.FRM.FrmListado.resources
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\11-06-2019.FRM\obj\Debug\_11_06_2019.FRM.Properties.Resources.resources
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\11-06-2019.FRM\obj\Debug\11-06-2019.FRM.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\11-06-2019.FRM\obj\Debug\11-06-2019.FRM.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\11-06-2019.FRM\obj\Debug\11-06-2019.FRM.csproj.CopyComplete
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\11-06-2019.FRM\obj\Debug\11-06-2019.FRM.exe
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\11-06-2019.FRM\obj\Debug\11-06-2019.FRM.pdb
