@@ -125,5 +125,29 @@ namespace _11_06_2019
         _conexion.Close();
       }
     }
+
+    public DataTable TraerTablaPersonas()
+    {
+      DataTable dt = new DataTable("Personas");
+      _comando = new SqlCommand();
+      _comando.Connection = _conexion;
+      _comando.CommandType = CommandType.Text;
+      _comando.CommandText = "SELECT * FROM Padron.dbo.Personas";
+      try
+      {
+        _conexion.Open();
+        _reader = _comando.ExecuteReader();
+        dt.Load(_reader);
+      }
+      catch (Exception e)
+      {
+        Console.WriteLine(e.Message);
+      }
+      finally
+      {
+        _conexion.Close();
+      }
+      return dt;
+    }
   }
 }
