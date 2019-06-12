@@ -45,6 +45,14 @@ namespace _11_06_2019
       }
     }
 
+    public int Id
+    {
+      get
+      {
+        return this._id;
+      }
+    }
+
     public override string ToString()
     {
       return "Nombre: " + _nombre + " Apellido: " + _apellido + " Edad: " + _edad + " Id: " + _id +"\n";

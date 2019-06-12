@@ -51,7 +51,7 @@ namespace _11_06_2019
       _comando = new SqlCommand();
       _comando.Connection = _conexion;
       _comando.CommandType = CommandType.Text;
-      _comando.CommandText= "SELECT id,nombre,apellido,edad FROM Padron.dbo.Personas";
+      _comando.CommandText= "SELECT * FROM Padron.dbo.Personas";
       List<Persona> retorno = new List<Persona>();
       try
       {
@@ -72,6 +72,58 @@ namespace _11_06_2019
         _conexion.Close();
       }
       return retorno;
+    }
+
+    public bool ModificarPersona(Persona p)
+    {
+      _comando = new SqlCommand();
+      _comando.Connection = _conexion;
+      _comando.CommandType = CommandType.Text;
+      _comando.CommandText = "UPDATE Padron.dbo.Personas SET nombre='"+p.Nombre+"', apellido='"+p.Apellido+"',edad="+p.Edad+" WHERE id="+p.Id;
+      try
+      {
+        _conexion.Open();
+        if (_comando.ExecuteNonQuery() > 0)
+        {
+          return true;
+        }
+        return false;
+      }
+      catch (Exception a)
+      {
+        Console.WriteLine(a.Message);
+        return false;
+      }
+      finally
+      {
+        _conexion.Close();
+      }
+    }
+
+    public bool EliminarPersona(int id)
+    {
+      _comando = new SqlCommand();
+      _comando.Connection = _conexion;
+      _comando.CommandType = CommandType.Text;
+      _comando.CommandText="DELETE FROM Padron.dbo.Personas WHERE id="+id;
+      try
+      {
+        _conexion.Open();
+        if (_comando.ExecuteNonQuery() > 0)
+        {
+          return true;
+        }
+        return false;
+      }
+      catch (Exception a)
+      {
+        Console.WriteLine(a.Message);
+        return false;
+      }
+      finally
+      {
+        _conexion.Close();
+      }
     }
   }
 }

@@ -10,25 +10,21 @@ namespace _11_06_2019.Test
   {
     static void Main(string[] args)
     {
-      AccesoDatos hola = new AccesoDatos();
-      List<Persona> personas = hola.TraerTodos();
-      Persona p = new Persona(72,"Pe","Dro",99);
-      string retorno = "";
-      string retorno2 = "";
-      foreach (Persona item in personas)
+      AccesoDatos acc = new AccesoDatos();
+      List<Persona> personas = new List<Persona>();
+      personas = acc.TraerTodos();
+      foreach(Persona e in personas)
       {
-        retorno += item.ToString();
+        Console.WriteLine(e.ToString());
       }
-      Console.WriteLine(retorno);
+      //acc.ModificarPersona(new Persona(13, "PEPEPEPE", "PEPEPEPE", 99));
+      //acc.EliminarPersona(13);
       Console.ReadKey();
-
-      hola.AgregarPersona(p);
-      personas = hola.TraerTodos();
-      foreach (Persona item in personas)
+      Console.Clear();
+      foreach (Persona e in personas)
       {
-        retorno2 += item.ToString();
+        Console.WriteLine(e.ToString());
       }
-      Console.WriteLine(retorno2);
       Console.ReadKey();
     }
   }

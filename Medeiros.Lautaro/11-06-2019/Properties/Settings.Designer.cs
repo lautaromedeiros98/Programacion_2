@@ -26,7 +26,7 @@ namespace _11_06_2019.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LAB5PC14\\SQLEXPRESS;Initial Catalog=Padron;Integrated Security=True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LAB5PC02\\SQLEXPRESS;Initial Catalog=Padron;Integrated Security=True")]
         public string Conexion_BDD {
             get {
                 return ((string)(this["Conexion_BDD"]));
