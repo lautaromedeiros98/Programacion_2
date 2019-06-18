@@ -15,12 +15,13 @@ namespace _18_06_2019
     public Form2()
     {
       InitializeComponent();
-     
+      this.Load += new System.EventHandler(this.Inicializar);
     }
 
     public void Inicializar(object obj, EventArgs e)
     {
       this.btnBoton1.Click += MiManejador;
+      this.button1.Click += Operar;
     }
 
     public void MiManejador(object obj ,EventArgs e)//<- es un manejador
@@ -44,6 +45,18 @@ namespace _18_06_2019
         }
       }
       MessageBox.Show(((Button)obj).Name);
+    }
+
+    private void Operar(object sender, EventArgs e)
+    {
+      Manejadora a = new Manejadora();
+
+      MiDelegado delegado = new MiDelegado(Manejadora.Sumar);
+      MiDelegado delegado2 = new MiDelegado(a.Restar);
+      MiDelegado delegado3 = (MiDelegado)MiDelegado.Combine(delegado, delegado2);
+
+      delegado3.Invoke(8, 7);
+      MessageBox.Show(delegado3.Method.ToString());
     }
   }
 }

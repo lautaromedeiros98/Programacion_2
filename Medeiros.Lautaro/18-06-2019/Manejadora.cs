@@ -8,7 +8,7 @@ using System.Windows.Forms;
 namespace _18_06_2019
 {
   public class Manejadora
-  {
+  {    
     public static void Manejador(object obj , EventArgs e)//<-siempre la misma firma y en obj esta la instancia del objeto que provoco el evento
     {
       MessageBox.Show("Estoy en el manejador");
@@ -32,6 +32,16 @@ namespace _18_06_2019
           MessageBox.Show("El evento fue provocado por un boton");
         }
       }
+    }
+
+    public static void Sumar(int a,int b)
+    {
+      MessageBox.Show((a + b).ToString());
+    }
+
+    public void Restar(int a,int b)
+    {
+      MessageBox.Show((a - b).ToString());
     }
   }
 }
