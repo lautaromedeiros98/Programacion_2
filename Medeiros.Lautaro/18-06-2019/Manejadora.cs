@@ -48,5 +48,10 @@ namespace _18_06_2019
     {
       MessageBox.Show((a * b).ToString());
     }
+
+    public void OtraSuma(MiDelegado d,int a,int b)
+    {
+      d.Invoke(a, b);
+    }
   }
 }

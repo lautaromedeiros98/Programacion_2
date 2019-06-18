@@ -54,8 +54,8 @@ namespace _18_06_2019
       MiDelegado delegado = new MiDelegado(Manejadora.Sumar);
       MiDelegado delegado2 = new MiDelegado(a.Restar);
       MiDelegado delegado3 = (MiDelegado)MiDelegado.Combine(delegado, delegado2);
-      MiDelegado delegado4 = (MiDelegado)MiDelegado.Combine(delegado3,new MiDelegado(a.Multiplicar));
-
+      MiDelegado delegado4 = (MiDelegado)MiDelegado.Combine(delegado3, new MiDelegado(a.Multiplicar));
+      a.OtraSuma(delegado, 3, 3);
       delegado4.Invoke(3, 3);
     }
   }
