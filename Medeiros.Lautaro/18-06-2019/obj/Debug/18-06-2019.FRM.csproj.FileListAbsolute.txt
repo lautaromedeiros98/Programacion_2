@@ -8,3 +8,4 @@ C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\18-06-2019\obj\Debug\18-
 C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\18-06-2019\obj\Debug\18-06-2019.FRM.csproj.CoreCompileInputs.cache
 C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\18-06-2019\obj\Debug\18-06-2019.exe
 C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\18-06-2019\obj\Debug\18-06-2019.pdb
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\18-06-2019\obj\Debug\_18_06_2019.Form2.resources
