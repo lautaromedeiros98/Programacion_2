@@ -43,5 +43,10 @@ namespace _18_06_2019
     {
       MessageBox.Show((a - b).ToString());
     }
+
+    public void Multiplicar(int a,int b)
+    {
+      MessageBox.Show((a * b).ToString());
+    }
   }
 }
