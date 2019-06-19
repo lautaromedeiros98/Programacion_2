@@ -1,0 +1,10 @@
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\19-06-2019.Consola\bin\Debug\19-06-2019.Consola.exe.config
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\19-06-2019.Consola\bin\Debug\19-06-2019.Consola.exe
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\19-06-2019.Consola\bin\Debug\19-06-2019.Consola.pdb
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\19-06-2019.Consola\bin\Debug\Libreria.dll
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\19-06-2019.Consola\bin\Debug\Libreria.pdb
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\19-06-2019.Consola\obj\Debug\19-06-2019.Consola.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\19-06-2019.Consola\obj\Debug\19-06-2019.Consola.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\19-06-2019.Consola\obj\Debug\19-06-2019.Consola.csproj.CopyComplete
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\19-06-2019.Consola\obj\Debug\19-06-2019.Consola.exe
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\19-06-2019.Consola\obj\Debug\19-06-2019.Consola.pdb

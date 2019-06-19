@@ -50,7 +50,6 @@ namespace _18_06_2019
     private void Operar(object sender, EventArgs e)
     {
       Manejadora a = new Manejadora();
-
       MiDelegado delegado = new MiDelegado(Manejadora.Sumar);
       MiDelegado delegado2 = new MiDelegado(a.Restar);
       MiDelegado delegado3 = (MiDelegado)MiDelegado.Combine(delegado, delegado2);

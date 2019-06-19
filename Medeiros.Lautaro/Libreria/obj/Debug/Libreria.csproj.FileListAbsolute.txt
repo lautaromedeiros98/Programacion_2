@@ -9,3 +9,9 @@ C:\Users\alumno\Downloads\Medeiros.Lautaro\Libreria\obj\Debug\Libreria.csproj.Co
 C:\Users\alumno\Downloads\Medeiros.Lautaro\Libreria\obj\Debug\Libreria.dll
 C:\Users\alumno\Downloads\Medeiros.Lautaro\Libreria\obj\Debug\Libreria.pdb
 C:\Users\alumno\Downloads\Medeiros.Lautaro\Libreria\obj\Debug\Libreria.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\Libreria\bin\Debug\Libreria.dll
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\Libreria\bin\Debug\Libreria.pdb
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\Libreria\obj\Debug\Libreria.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\Libreria\obj\Debug\Libreria.dll
+C:\Users\alumno\Desktop\Programacion_2\Medeiros.Lautaro\Libreria\obj\Debug\Libreria.pdb
