@@ -43,6 +43,8 @@
     <Compile Include="Alumno.cs" />
     <Compile Include="Delegado.cs" />
     <Compile Include="Empleado.cs" />
+    <Compile Include="EmpleadoMejorado.cs" />
+    <Compile Include="EmpleadoSueldoArgs.cs" />
     <Compile Include="EVehiculo.cs" />
     <Compile Include="Lavadero.cs" />
     <Compile Include="Vehiculo.cs" />

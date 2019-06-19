@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManejadoresEventos.FRM", "1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-06-2019.Consola", "19-06-2019.Consola\19-06-2019.Consola.csproj", "{45193F6B-ADCE-4308-AF60-02E5467A1C43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-06-2019.Frm", "19-06-2019.Frm\19-06-2019.Frm.csproj", "{73642A2B-722B-4314-94C3-94F0CD024347}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{45193F6B-ADCE-4308-AF60-02E5467A1C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45193F6B-ADCE-4308-AF60-02E5467A1C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45193F6B-ADCE-4308-AF60-02E5467A1C43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73642A2B-722B-4314-94C3-94F0CD024347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73642A2B-722B-4314-94C3-94F0CD024347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73642A2B-722B-4314-94C3-94F0CD024347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73642A2B-722B-4314-94C3-94F0CD024347}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

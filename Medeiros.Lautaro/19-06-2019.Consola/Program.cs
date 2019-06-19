@@ -33,6 +33,6 @@ namespace _19_06_2019.Consola
       StreamWriter writer = new StreamWriter("empleado.log", true);
       writer.WriteLine(DateTime.Now+ " " + "Empleado: " + e.Nombre + " Legajo: " + e.Legajo +" Sueldo que se le quiso asignar: " + f);
       writer.Close();
-    }//fecha,hora,minutos,segundos,nombre y legajo + sueldo que se intento asignar 
+    }//fecha,hora,minutos,segundos,nombre y legajo + sueldo que se intento asignar
   }
 }
