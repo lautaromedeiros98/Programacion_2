@@ -151,3 +151,31 @@ namespace _11_06_2019
     }
   }
 }
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+    public void Restar(int a,int b) <- MANEJADOR
+    {
+      MessageBox.Show((a - b).ToString());
+    }
+
+    public delegate void MiDelegado(int a, int b); <- FIRMA DE DELEGADO // LOS MANEJADORES TIENEN QUE TENER LOS MISMOS PARAMETROS
+
+    public Form2()
+    {
+      InitializeComponent();
+      this.Load += new System.EventHandler(this.Inicializar);
+    }
+
+    public void Inicializar(object obj, EventArgs e)
+    {
+      this.button1.Click += Operar;
+    }
+
+    private void Operar(object sender, EventArgs e)
+    {
+      Manejadora a = new Manejadora();
+      MiDelegado delegado = new MiDelegado(Manejadora.Sumar);
+      delegado.Invoke(3, 3);
+    }	
