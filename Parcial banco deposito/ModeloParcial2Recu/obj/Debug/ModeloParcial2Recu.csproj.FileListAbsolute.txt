@@ -1,0 +1,13 @@
+C:\Users\herna\source\repos\ModeloParcial2Recu\ModeloParcial2Recu\obj\Debug\ModeloParcial2Recu.csprojAssemblyReference.cache
+C:\Users\herna\source\repos\ModeloParcial2Recu\ModeloParcial2Recu\obj\Debug\SP.frmRSP.resources
+C:\Users\herna\source\repos\ModeloParcial2Recu\ModeloParcial2Recu\obj\Debug\ModeloParcial2Recu.Properties.Resources.resources
+C:\Users\herna\source\repos\ModeloParcial2Recu\ModeloParcial2Recu\obj\Debug\ModeloParcial2Recu.csproj.GenerateResource.cache
+C:\Users\herna\source\repos\ModeloParcial2Recu\ModeloParcial2Recu\obj\Debug\ModeloParcial2Recu.csproj.CoreCompileInputs.cache
+C:\Users\herna\source\repos\ModeloParcial2Recu\ModeloParcial2Recu\bin\Debug\ModeloParcial2Recu.exe.config
+C:\Users\herna\source\repos\ModeloParcial2Recu\ModeloParcial2Recu\bin\Debug\ModeloParcial2Recu.exe
+C:\Users\herna\source\repos\ModeloParcial2Recu\ModeloParcial2Recu\bin\Debug\ModeloParcial2Recu.pdb
+C:\Users\herna\source\repos\ModeloParcial2Recu\ModeloParcial2Recu\obj\Debug\ModeloParcial2Recu.exe
+C:\Users\herna\source\repos\ModeloParcial2Recu\ModeloParcial2Recu\obj\Debug\ModeloParcial2Recu.pdb
+C:\Users\herna\source\repos\ModeloParcial2Recu\ModeloParcial2Recu\bin\Debug\Entidades.dll
+C:\Users\herna\source\repos\ModeloParcial2Recu\ModeloParcial2Recu\bin\Debug\Entidades.pdb
+C:\Users\herna\source\repos\ModeloParcial2Recu\ModeloParcial2Recu\obj\Debug\ModeloParcial2Recu.csproj.CopyComplete

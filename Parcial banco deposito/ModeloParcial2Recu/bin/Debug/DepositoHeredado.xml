@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deposito xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="DepositoHeredado">
+  <productos>
+    <Producto>
+      <nombre>tomate</nombre>
+      <stock>10</stock>
+    </Producto>
+    <Producto>
+      <nombre>azucar</nombre>
+      <stock>25</stock>
+    </Producto>
+    <Producto>
+      <nombre>yerba</nombre>
+      <stock>30</stock>
+    </Producto>
+  </productos>
+</Deposito>
