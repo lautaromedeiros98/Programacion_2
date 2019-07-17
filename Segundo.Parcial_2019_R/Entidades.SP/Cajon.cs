@@ -100,7 +100,16 @@ namespace Entidades.SP
 			return c;
 		}
 
-		public bool EliminarFruta(int id)
+		
+		public delegate void MiDelegado(Cajon<T> cajon);
+	}
+
+	public static class Cajon
+	{
+		private static SqlCommand _comando;
+		private static  SqlConnection _conexion = new SqlConnection(Properties.Settings.Default.conexcion);
+
+		public static bool EliminarFruta(this Cajon<Manzana> cajon,int id)
 		{
 			_comando = new SqlCommand();
 			_comando.Connection = _conexion;
@@ -124,6 +133,5 @@ namespace Entidades.SP
 				_conexion.Close();
 			}
 		}
-		public delegate void MiDelegado(Cajon<T> cajon);
 	}
 }

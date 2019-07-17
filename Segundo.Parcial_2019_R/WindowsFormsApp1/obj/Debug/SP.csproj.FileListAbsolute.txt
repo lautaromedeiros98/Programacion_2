@@ -22,3 +22,17 @@ C:\Users\Lalo\Downloads\Segundo.Parcial_2019\WindowsFormsApp1\obj\Debug\SP.cspro
 C:\Users\Lalo\Downloads\Segundo.Parcial_2019\WindowsFormsApp1\obj\Debug\SP.exe
 C:\Users\Lalo\Downloads\Segundo.Parcial_2019\WindowsFormsApp1\obj\Debug\SP.pdb
 C:\Users\Lalo\Downloads\Segundo.Parcial_2019\WindowsFormsApp1\bin\Debug\Entidades.SP.dll.config
+C:\Users\Lalo\Desktop\Programacion_2\Segundo.Parcial_2019_R\WindowsFormsApp1\bin\Debug\SP.exe.config
+C:\Users\Lalo\Desktop\Programacion_2\Segundo.Parcial_2019_R\WindowsFormsApp1\bin\Debug\SP.exe
+C:\Users\Lalo\Desktop\Programacion_2\Segundo.Parcial_2019_R\WindowsFormsApp1\bin\Debug\SP.pdb
+C:\Users\Lalo\Desktop\Programacion_2\Segundo.Parcial_2019_R\WindowsFormsApp1\bin\Debug\Entidades.SP.dll
+C:\Users\Lalo\Desktop\Programacion_2\Segundo.Parcial_2019_R\WindowsFormsApp1\bin\Debug\Entidades.SP.pdb
+C:\Users\Lalo\Desktop\Programacion_2\Segundo.Parcial_2019_R\WindowsFormsApp1\bin\Debug\Entidades.SP.dll.config
+C:\Users\Lalo\Desktop\Programacion_2\Segundo.Parcial_2019_R\WindowsFormsApp1\obj\Debug\SP.csprojAssemblyReference.cache
+C:\Users\Lalo\Desktop\Programacion_2\Segundo.Parcial_2019_R\WindowsFormsApp1\obj\Debug\SP.SegundoParcial.resources
+C:\Users\Lalo\Desktop\Programacion_2\Segundo.Parcial_2019_R\WindowsFormsApp1\obj\Debug\SP.Properties.Resources.resources
+C:\Users\Lalo\Desktop\Programacion_2\Segundo.Parcial_2019_R\WindowsFormsApp1\obj\Debug\SP.csproj.GenerateResource.cache
+C:\Users\Lalo\Desktop\Programacion_2\Segundo.Parcial_2019_R\WindowsFormsApp1\obj\Debug\SP.csproj.CoreCompileInputs.cache
+C:\Users\Lalo\Desktop\Programacion_2\Segundo.Parcial_2019_R\WindowsFormsApp1\obj\Debug\SP.csproj.CopyComplete
+C:\Users\Lalo\Desktop\Programacion_2\Segundo.Parcial_2019_R\WindowsFormsApp1\obj\Debug\SP.exe
+C:\Users\Lalo\Desktop\Programacion_2\Segundo.Parcial_2019_R\WindowsFormsApp1\obj\Debug\SP.pdb

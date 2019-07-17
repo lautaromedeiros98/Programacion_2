@@ -44,6 +44,7 @@
     <Compile Include="Banana.cs" />
     <Compile Include="Cajon.cs" />
     <Compile Include="CajonLlenoException.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="Durazno.cs" />
     <Compile Include="Fruta.cs" />
     <Compile Include="IDeserializar.cs" />
